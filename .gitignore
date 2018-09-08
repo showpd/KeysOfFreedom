@@ -75,3 +75,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Content/StarterContent/*
+Content/AnimStarterPack/*
+Content/ForestSet/*
+Content/InfinityBladeEffects/*
+Content/Mannequin/*
+Content/ThirdPerson/*
+Content/Geometry/*
